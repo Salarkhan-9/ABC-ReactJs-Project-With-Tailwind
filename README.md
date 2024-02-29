@@ -1,5 +1,5 @@
 # Under Development
-This project is about responsive Website in tailwind
+This project is about responsive Website in tailwind - This main Focus is is on its CSS Responsiveness 
 
 
 
